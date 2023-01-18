@@ -1,0 +1,9 @@
+/* CSS Document */
+
+.login_center{
+	position:absolute;
+	margin-left:-200px;
+	left:50%;
+	top:10px;
+	width:400px;
+}
